@@ -7,18 +7,15 @@ const INFO = {
   },
 
   socials: {
-    twitter: "https://twitter.com/",
-    github: "https://github.com/",
-    linkedin: "https://linkedin.com/",
-    instagram: "https://instagram.com/",
-    stackoverflow: "https://stackoverflow.com/",
-    facebook: "https://facebook.com/",
+    twitter: "https://twitter.com/Ola_Sammy1",
+    github: "https://github.com/samuel-ola1",
+    linkedin: "https://www.linkedin.com/in/samuel-olayande/",
+    instagram: "https://www.instagram.com/samuelolayande/",
   },
 
   homepage: {
-    title: "Full-stack web and mobile app developer, and amateur astronaut.",
-    description:
-      "I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+    title: "Frontend web developer and Mobile Developer.",
+    description: `I am a frontend developer with expertise in React.js. I have experience in building  secure and reliable web applications using various frameworks and technologies. I am all about embracing fresh challenges and seizing every opportunity to level up my game as a developer. Learning never stops, and I am all in!`,
   },
 
   about: {

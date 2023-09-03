@@ -10,7 +10,6 @@ import { faMailBulk } from "@fortawesome/free-solid-svg-icons";
 import {
   faGithub,
   faInstagram,
-  faStackOverflow,
   faTwitter,
 } from "@fortawesome/free-brands-svg-icons";
 
@@ -116,16 +115,6 @@ const Homepage = () => {
               <a href={INFO.socials.github} target="_blank" rel="noreferrer">
                 <FontAwesomeIcon
                   icon={faGithub}
-                  className="homepage-social-icon"
-                />
-              </a>
-              <a
-                href={INFO.socials.stackoverflow}
-                target="_blank"
-                rel="noreferrer"
-              >
-                <FontAwesomeIcon
-                  icon={faStackOverflow}
                   className="homepage-social-icon"
                 />
               </a>
